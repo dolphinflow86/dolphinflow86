@@ -13,7 +13,7 @@ Recently, I have been focusing on LLM-based product development and studying the
 ## 🚀 Projects & Activities
 
 ### 🥇 Tail Villain Core (AI Infrastructure)
-An open-source core engine for `Tail Villain`, an AI-powered interview and career roadmap platform. I am currently focusing on building highly efficient, production-ready AI infrastructure.
+An open-source core engine for [Tail Villain](https://tailvillain.com), an AI-powered interview and career roadmap platform. I am currently focusing on building highly efficient, production-ready AI infrastructure.
 
 - **Embedded RAG via pgvector:** Built a retrieval-augmented generation (RAG) pipeline directly within a PostgreSQL environment using `pgvector`. This enables real-time extraction of personalized follow-up questions by vectorizing user interview history and resumes.
 - **Real-time AI Audio Streaming:** Engineered a WebSocket-based streaming layer for Gemini Multimodal Live API. Resolved latency and STT desynchronization issues to ensure a seamless, low-latency conversational experience.
