@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sungho Choi (dolphinflow86)
+# 👋 Hi, I'm Sungho Choi
 
 ### About Me
 
