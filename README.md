@@ -31,12 +31,6 @@ I keep my problem-solving skills in shape by solving LeetCode problems. It’s a
         <img src="https://leetcard.jacoblin.cool/dolphindev?theme=dark" />
       </a>
     </td>
-    <td align="center" width="50"></td>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=dolphinflow86&show_icons=true&theme=dark" />
-      </a>
-    </td>
   </tr>
 </table>
 
